@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m passionate about **Software Testing** and **Quality 
 ## 👨‍💻 About Me
 - 🎓 Currently a **University Student** majoring in Information Technology
 - 🔍 Interested in **Manual Testing** and **Automated Testing**
-- 🚀 Exploring tools like **Selenium**, **JUnit**, and **Cypress** to streamline testing workflows
+- 🚀 Exploring tools like **Robot Framework**, **Selenium**, **JUnit**, and **Cypress** to streamline testing workflows
 - 💡 Always curious about new testing methodologies and the latest tech trends in **QA** and **software development**
 - 🎯 My goal is to become a **QA Specialist** who ensures that every software runs flawlessly!
 
