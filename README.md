@@ -3,7 +3,7 @@
 Welcome to my GitHub! I’m passionate about **Software Testing** and **Quality Assurance**, and I love exploring ways to improve software reliability and performance.
 
 ## 👨‍💻 About Me
-- 🎓 Currently a **University Student** majoring in Information Technology
+- 🎓 Currently a **University Student** majoring in Information Technology(burapha university)
 - 🔍 Interested in **Manual Testing** and **Automated Testing**
 - 🚀 Exploring tools like **Robot Framework**, **Selenium**, **JUnit**, and **Cypress** to streamline testing workflows
 - 💡 Always curious about new testing methodologies and the latest tech trends in **QA** and **software development**
