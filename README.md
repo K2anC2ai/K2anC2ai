@@ -28,5 +28,15 @@ Welcome to my GitHub! I’m passionate about **Software Testing** and **Quality 
 ## 📫 Let's Connect!
 Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/khanchai-khamnong-b6bb06329/)!
 
+## Projects that about testing
+### Project 1: To-Do List Website Testing with Cypress
+- **Description**: This project involved testing a self-made to-do list website using Cypress. I created automated test cases to verify that all core functionalities such as adding, editing, deleting, and completing tasks worked as expected.
+    - Tested user interactions including task creation, task status updates (complete/incomplete), and deletion.
+    - Implemented both functional and end-to-end tests using Cypress to ensure all features performed correctly across different browsers.
+    - Used Cypress Dashboard for test runs and detailed reporting of test results.(i use mochawesome and cypress-mochawesome-reporter to report result)
+- [Cypress_Testing_withMyOwn_TodoList](https://github.com/K2anC2ai/Cypress_Testing_withMyOwn_TodoList)
+
+
+
 ---
 “Testing leads to failure, and failure leads to understanding.” — Burt Rutan
