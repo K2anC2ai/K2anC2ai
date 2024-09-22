@@ -11,7 +11,6 @@ Welcome to my GitHub! I’m passionate about **Software Testing** and **Quality 
 
 ## 🛠️ Technologies & Tools I Work With:
 - **Testing Frameworks**: Selenium, Cypress, JUnit
-- **Automation**: Postman, JMeter
 - **Version Control**: Git & GitHub
 - **Development**: JavaScript, Python, PHP
 - **CI/CD**: Jenkins, Travis CI
