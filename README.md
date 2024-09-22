@@ -23,9 +23,7 @@ Welcome to my GitHub! I’m passionate about **Software Testing** and **Quality 
 - Improving the **user experience** by identifying and fixing bugs before deployment
 
 ## 🌱 What I’m Learning:
-- In-depth **Test-Driven Development** (TDD)
-- Advanced **Bug Tracking & Reporting**
-- Mastering **Load and Stress Testing**
+- You can see all my learning progress here [QA Learning Journey](https://github.com/K2anC2ai/qa-learning-journey)!
 
 ## 📫 Let's Connect!
 Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/khanchai-khamnong-b6bb06329/)!
