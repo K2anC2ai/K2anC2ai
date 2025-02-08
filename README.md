@@ -36,7 +36,14 @@ Feel free to check out my repositories and connect with me on [LinkedIn](https:/
     - Used Cypress Dashboard for test runs and detailed reporting of test results.(i use mochawesome and cypress-mochawesome-reporter to report result)
 - [Cypress_Testing_withMyOwn_TodoList](https://github.com/K2anC2ai/Cypress_Testing_withMyOwn_TodoList)
 
-
+### Project 2: Exam Tester Practice for ISTQB CTFL
+- **Description**: This project is designed for individuals preparing for the ISTQB Certified Tester Foundation Level (CTFL) certification. It provides an interactive platform to practice exam questions and review the official syllabus.
+    - Developed a mock exam system with multiple-choice questions modeled after real ISTQB CTFL exams.
+    - Implemented a chapter-wise syllabus structure (Chapters 1-6) to align with the official CTFL syllabus.
+    - Designed a user-friendly interface for effective learning and exam practice.
+    - Ensured accessibility to learning materials and syllabus for structured self-study.
+- [ExamTesterPractice-CTFL](https://github.com/K2anC2ai/ExamTesterPractice-CTFL-)
+- [Hosted Website: Exam Tester Practice - CTFL](https://k2anc2ai.github.io/ExamTesterPractice-CTFL-/)
 
 ---
 “Testing leads to failure, and failure leads to understanding.” — Burt Rutan
