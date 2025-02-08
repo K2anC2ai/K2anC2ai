@@ -47,7 +47,7 @@ Feel free to check out my repositories and connect with me on [LinkedIn](https:/
 
 
 ## Projects that about testing(open source)
-### Project 2: Chathai - Test Case to Test Script Converter with execution
+### Project 1: Chathai - Test Case to Test Script Converter with execution
 - **Description**:
 
 
