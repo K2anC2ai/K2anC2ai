@@ -1,56 +1,96 @@
-# 👋 Hi, I'm Khanchai Khamnong!
+# Khanchai Khamnong
 
-Welcome to my GitHub! I’m passionate about **Software Testing** and **Quality Assurance**, and I love exploring ways to improve software reliability and performance.
-
-## 👨‍💻 About Me
-- 🎓 Currently a **University Student** majoring in Information Technology(burapha university)
-- 🔍 Interested in **Manual Testing** and **Automated Testing**
-- 🚀 Exploring tools like **Robot Framework**, **Selenium**, **JUnit**, and **Cypress** to streamline testing workflows
-- 💡 Always curious about new testing methodologies and the latest tech trends in **QA** and **software development**
-- 🎯 My goal is to become a **QA Specialist** who ensures that every software runs flawlessly!
-
-## 🛠️ Technologies & Tools I Work With:
-- **Testing Frameworks**: Selenium, Cypress, JUnit
-- **Version Control**: Git & GitHub
-- **Development**: JavaScript, Python, PHP
-- **CI/CD**: Jenkins, Travis CI
-- **Databases**: MySQL, MongoDB
-
-
-## 📝 What I’m Working On:
-- Developing efficient **test automation scripts** to reduce manual testing time
-- Experimenting with **CI/CD pipelines** for better deployment automation
-- Improving the **user experience** by identifying and fixing bugs before deployment
-
-## 🌱 What I’m Learning:
-- You can see all my learning progress here [QA Learning Journey](https://github.com/K2anC2ai/qa-learning-journey)!
-
-## 📫 Let's Connect!
-Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/khanchai-khamnong-b6bb06329/)!
-
-## Projects that about testing
-### Project 1: To-Do List Website Testing with Cypress
-- **Description**: This project involved testing a self-made to-do list website using Cypress. I created automated test cases to verify that all core functionalities such as adding, editing, deleting, and completing tasks worked as expected.
-    - Tested user interactions including task creation, task status updates (complete/incomplete), and deletion.
-    - Implemented both functional and end-to-end tests using Cypress to ensure all features performed correctly across different browsers.
-    - Used Cypress Dashboard for test runs and detailed reporting of test results.(i use mochawesome and cypress-mochawesome-reporter to report result)
-- [Cypress_Testing_withMyOwn_TodoList](https://github.com/K2anC2ai/Cypress_Testing_withMyOwn_TodoList)
-
-### Project 2: Exam Tester Practice for ISTQB CTFL
-- **Description**: This project is designed for individuals preparing for the ISTQB Certified Tester Foundation Level (CTFL) certification. It provides an interactive platform to practice exam questions and review the official syllabus.
-    - Developed a mock exam system with multiple-choice questions modeled after real ISTQB CTFL exams.
-    - Implemented a chapter-wise syllabus structure (Chapters 1-6) to align with the official CTFL syllabus.
-    - Designed a user-friendly interface for effective learning and exam practice.
-    - Ensured accessibility to learning materials and syllabus for structured self-study.
-- [ExamTesterPractice-CTFL](https://github.com/K2anC2ai/ExamTesterPractice-CTFL-)
-- [Hosted Website: Exam Tester Practice - CTFL](https://k2anc2ai.github.io/ExamTesterPractice-CTFL-/)
-
-
-## Projects that about testing(open source)
-### Project 1: Chathai - Test Case to Test Script Converter with execution
-- **Description**:
-
-
+Bachelor of Science in Information Technology for Digital Industry  
+Thailand | Software Testing Enthusiast  
+GPA: 3.71 | TOEIC: 735  
+Email: khanchai.k@example.com
 
 ---
-“Testing leads to failure, and failure leads to understanding.” — Burt Rutan
+
+## About Me
+
+I am a passionate Software Tester with experience in manual testing, API testing, and automation testing. I focus on improving software quality through structured testing processes and automation strategies.
+
+I am the creator of the **Chathai Testing Framework**, a tool that enables test teams to convert Excel-based test cases into executable scripts for frameworks such as Cypress and Playwright.
+
+---
+
+## Projects
+
+### Chathai Testing Framework  
+[GitHub Repository](https://github.com/K2anC2ai/chathai)
+
+A framework for converting Excel (.xlsx) test cases into automated test scripts.
+
+- Developed with Node.js
+- Supports Cypress and Playwright test script generation
+- Command-line interface via `npx chathai start`
+- Focused on BDD-style test steps
+- Built with modular structure and future extensibility
+
+### To-Do List E2E Testing with Cypress  
+[GitHub Repository](https://github.com/K2anC2ai/todo-e2e-test)
+
+Automated end-to-end tests for a basic to-do web application.
+
+- Covers all core functionalities: Add, Edit, Delete, Mark Complete
+- Implements Cypress test suite
+- Generates detailed reports using mochawesome
+
+### E-Commerce Website Testing
+
+Functional testing of an e-commerce website with focus on:
+
+- Account registration and login
+- Cart and checkout flow
+- Store assignment and location-based logic
+- Detailed bug reports and test documentation
+
+### Exam Tester Practice Web App
+
+An academic project to simulate testing tasks in a real-world environment.
+
+- Includes API Testing with Postman and Swagger
+- SQL used for data validation
+- Test cases designed using structured templates
+
+---
+
+## Certifications and Training
+
+- ISTQB Certified Tester Foundation Level (CTFL) – Passed July 2025
+- The Complete Software Testing 2025 Bootcamp (Udemy)
+- Test IO Contributor (Functional, Visual, and Content Bug Reports)
+
+---
+
+## Skills
+
+**Testing Techniques**  
+Manual Testing, Functional Testing, API Testing, End-to-End Testing, Regression Testing
+
+**Tools**  
+Cypress, Playwright, Postman, Swagger, Test IO
+
+**Languages**  
+JavaScript, SQL
+
+**Others**  
+Git, Markdown, Agile Methodology, Bug Reporting
+
+---
+
+## Software Testing Practice
+
+- Test case design based on Use Case diagrams and requirements
+- Applied Software Testing Life Cycle (STLC) in multiple projects
+- Created UAT scenarios and documentation for client-facing features
+
+---
+
+## Contact
+
+- GitHub: [https://github.com/K2anC2ai](https://github.com/K2anC2ai)
+- LinkedIn: (Add your link)
+- Email: khanchai.k@example.com
+
