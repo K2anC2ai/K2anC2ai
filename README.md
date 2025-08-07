@@ -15,11 +15,20 @@ I am the creator of the **Chathai Testing Framework**, a tool that enables test 
 
 ---
 
+## Certifications and Training
+
+- ISTQB Certified Tester Foundation Level (CTFL) – Passed July 2025
+- The Complete Software Testing 2025 Bootcamp (Udemy)
+- Test IO Contributor (Functional, Visual, and Content Bug Reports)
+
+---
+
 ## Projects
 
 ### Chathai Testing Framework  
-[GitHub Repository](https://github.com/K2anC2ai/chathai)
-
+[GitHub Repository](https://github.com/K2anC2ai/Chathai_OnDev)
+[NPM](https://www.npmjs.com/package/chathai)
+[DOC-website](https://docs.chathai.site/)
 A framework for converting Excel (.xlsx) test cases into automated test scripts.
 
 - Developed with Node.js
@@ -27,6 +36,17 @@ A framework for converting Excel (.xlsx) test cases into automated test scripts.
 - Command-line interface via `npx chathai start`
 - Focused on BDD-style test steps
 - Built with modular structure and future extensibility
+
+### HelpDesk Node.js Application  
+[GitHub Repository](https://github.com/K2anC2ai/Chathai_OnDev)
+*Role: QA, System Analyst, Developer*
+
+A Node.js-based web application for ticket management and knowledge base support.
+
+- Wrote detailed test cases and performed manual testing for key features
+- Reported bugs, documented test results, and validated database integrity
+- Participated in system design, use case creation, and backend development
+- Collaborated using Trello for task management and issue prioritization
 
 ### To-Do List E2E Testing with Cypress  
 [GitHub Repository](https://github.com/K2anC2ai/todo-e2e-test)
@@ -53,14 +73,6 @@ An academic project to simulate testing tasks in a real-world environment.
 - Includes API Testing with Postman and Swagger
 - SQL used for data validation
 - Test cases designed using structured templates
-
----
-
-## Certifications and Training
-
-- ISTQB Certified Tester Foundation Level (CTFL) – Passed July 2025
-- The Complete Software Testing 2025 Bootcamp (Udemy)
-- Test IO Contributor (Functional, Visual, and Content Bug Reports)
 
 ---
 
@@ -91,6 +103,5 @@ Git, Markdown, Agile Methodology, Bug Reporting
 ## Contact
 
 - GitHub: [https://github.com/K2anC2ai](https://github.com/K2anC2ai)
-- LinkedIn: (Add your link)
-- Email: khanchai.k@example.com
+- Email: khanchai.k2@gmail.com
 
