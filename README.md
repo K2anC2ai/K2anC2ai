@@ -57,8 +57,8 @@ Automated end-to-end tests for a basic to-do web application.
 - Implements Cypress test suite
 - Generates detailed reports using mochawesome
 
-### E-Commerce Website Testing
-
+### E-Commerce Website
+[GitHub Repository](https://github.com/K2anC2ai/K2anC2ai-Node-JS--Build-E-commerce-Website)
 Functional testing of an e-commerce website with focus on:
 
 - Account registration and login
@@ -67,7 +67,7 @@ Functional testing of an e-commerce website with focus on:
 - Detailed bug reports and test documentation
 
 ### Exam Tester Practice Web App
-
+[GitHub Repository](https://github.com/K2anC2ai/ExamTesterPractice-CTFL-)
 An academic project to simulate testing tasks in a real-world environment.
 
 - Includes API Testing with Postman and Swagger
