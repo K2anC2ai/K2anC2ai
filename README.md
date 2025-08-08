@@ -38,7 +38,7 @@ A framework for converting Excel (.xlsx) test cases into automated test scripts.
 - Built with modular structure and future extensibility
 
 ### HelpDesk Node.js Application  
-[GitHub Repository](https://github.com/K2anC2ai/Chathai_OnDev)
+[GitHub Repository](https://github.com/K2anC2ai/HelpDeskNodeJS)
 *Role: QA, System Analyst, Developer*
 
 A Node.js-based web application for ticket management and knowledge base support.
