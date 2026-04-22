@@ -2,7 +2,7 @@
 
 Bachelor of Science in Information Technology for Digital Industry  
 Thailand | Software Testing Enthusiast  
-GPA: 3.71 | TOEIC: 735  
+GPA: 3.73 | TOEIC: 735  
 Email: khanchai.k@example.com
 
 ---
